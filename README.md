@@ -29,7 +29,7 @@ a=c-b
 print("Swapped values are:",a,round(b,2))
 ```
 ## OUTPUT:
-![images](images/SwappingOutput.png)
+![images](Swapping-two-values/images/SwappingOutput.png)
 
 
 ## RESULT:
