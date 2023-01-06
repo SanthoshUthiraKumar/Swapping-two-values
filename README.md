@@ -33,7 +33,7 @@ print("Swapped values are:",a,round(b,2))
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the Swapping of two values are successfully executed
 
 
 
