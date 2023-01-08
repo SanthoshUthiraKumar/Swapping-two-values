@@ -30,11 +30,8 @@ print("Swapped values are:",a,round(b,2))
 ```
 ## OUTPUT:
 
-![images](./images/SwappingOutput.png)
+![images](images/SwappingOutput.png)
 
 
 ## RESULT:
 Thus the Swapping of two values are successfully executed
-
-
-
